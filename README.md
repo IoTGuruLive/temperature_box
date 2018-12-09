@@ -1,4 +1,20 @@
-# temperature_box
-Temperature box
+# Temperature box prototype kit
 
-![Schema](https://github.com/IoTGuruLive/temperature_box/blob/master/box.jpg)
+![Schema](https://github.com/IoTGuruLive/temperature_box/blob/master/images/box.jpg)
+
+- auto discovery of DS18B20 sensor
+- starts as AP to configure to your WiFi
+- measure temperature and send it to our cloud
+
+## Gerber ZIP to print the PCB
+
+![Schema](https://github.com/IoTGuruLive/temperature_box/blob/master/images/pcb_top.jpg)
+
+* gerber/gerber.zip
+
+## 3D printable model
+
+![Schema](https://github.com/IoTGuruLive/temperature_box/blob/master/images/3d_model.jpg)
+
+* The box: model/TheIoTGuru-DS18B20-Box.obj
+* The cover: model/TheIoTGuru-DS18B20-Cover.obj
