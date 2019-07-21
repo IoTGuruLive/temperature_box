@@ -1,5 +1,7 @@
 # Temperature box prototype kit
 
+Cloud support: https://iotguru.live
+
 ![Schema](https://github.com/IoTGuruLive/temperature_box/blob/master/images/box.jpg)
 
 - auto discovery of DS18B20 sensor
