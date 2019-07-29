@@ -1,6 +1,7 @@
 # Temperature box prototype kit
 
 Cloud support: https://iotguru.live
+Support forum: https://forum.iotguru.live/viewtopic.php?f=17&t=4
 
 ![Schema](https://github.com/IoTGuruLive/temperature_box/blob/master/images/box.jpg)
 
